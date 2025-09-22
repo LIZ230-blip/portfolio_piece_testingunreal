@@ -5,7 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/github stuffs/portfolio_piece_testingunreal/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/portfolio1.umap",
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/ThirdPerson/Blueprints/BP_SwitchOnLights.uasset",
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/Textures/wood_texture/Wood_Veneer_Wall_Panels_vlskbcz_2K_Displacement.uasset",
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/Textures/wood_texture/Wood_Veneer_Wall_Panels_vlskbcz_2K_Gloss.uasset",
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/Textures/wood_texture/Wood_Veneer_Wall_Panels_vlskbcz_2K_Normal.uasset",
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/Textures/wood_texture/Wood_Veneer_Wall_Panels_vlskbcz_2K_Roughness.uasset",
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/Textures/wood_texture/Wood_Veneer_Wall_Panels_vlskbcz_2K_Specular.uasset",
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/Textures/wood_texture/Wood_Veneer_Wall_Panels_vlskbcz_2K_AO.uasset",
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/Textures/wood_texture/Wood_Veneer_Wall_Panels_vlskbcz_2K_BaseColor.uasset",
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/Textures/wood_texture/Wood_Veneer_Wall_Panels_vlskbcz_2K_Bump.uasset",
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/Textures/wood_texture/Wood_Veneer_Wall_Panels_vlskbcz_2K_Cavity.uasset"
 			]
 		}
 	]
