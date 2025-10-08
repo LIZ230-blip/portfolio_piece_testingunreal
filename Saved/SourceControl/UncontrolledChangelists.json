@@ -5,13 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/StarterContent/Blueprints/CreatedBlueprints/BPIF_Interact.uasset",
-				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/StarterContent/Blueprints/CreatedBlueprints/BP_Cup.uasset",
-				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/portfolio1.umap",
-				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/_GENERATED/e4488/Cylinder_3E3E2B93.uasset",
-				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/_GENERATED/ebarrett1/Box_9AA94D8E.uasset",
-				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1.uasset",
 				"C:/github stuffs/portfolio_piece_testingunreal/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/github stuffs/portfolio_piece_testingunreal/Content/portfolio1.umap",
 				"C:/github stuffs/portfolio_piece_testingunreal/Content/ThirdPerson/Blueprints/BP_SwitchOnLights.uasset",
@@ -57,7 +50,24 @@
 				"C:/github stuffs/portfolio_piece_testingunreal/Content/_GENERATED/e4488/Cylinder_DF4FA154.uasset",
 				"C:/github stuffs/portfolio_piece_testingunreal/Content/_GENERATED/e4488/Cylinder_Solid_EE62FED7.uasset",
 				"C:/github stuffs/portfolio_piece_testingunreal/Content/_GENERATED/e4488/Cylinder_D015F327.uasset",
-				"C:/github stuffs/portfolio_piece_testingunreal/Content/_GENERATED/e4488/Cylinder_3E3E2B93.uasset"
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/_GENERATED/e4488/Cylinder_3E3E2B93.uasset",
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/_GENERATED/ebarrett1/Box_9AA94D8E.uasset",
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/_GENERATED/e4488/Box_64D560C9.uasset",
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/_GENERATED/e4488/Box_6F888DBF.uasset",
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/_GENERATED/e4488/Cylinder_A99F54D7.uasset",
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/_GENERATED/e4488/Cylinder_FA245381.uasset",
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/_GENERATED/e4488/Box_FED37A4C.uasset",
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/_GENERATED/e4488/Box_4C47A1B0.uasset",
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/_GENERATED/e4488/Cylinder_B680264F.uasset",
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/_GENERATED/e4488/Cylinder_44F6EEA8.uasset",
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/Textures/black_marble_tiles_tkogehsi_8k/Black_Marble_Tiles_tkogehsi_8K_BaseColor_Mat.uasset",
+				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/StarterContent/Blueprints/CreatedBlueprints/BPIF_Interact.uasset",
+				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/StarterContent/Blueprints/CreatedBlueprints/BP_Cup.uasset",
+				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/portfolio1.umap",
+				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/_GENERATED/e4488/Cylinder_3E3E2B93.uasset",
+				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/_GENERATED/ebarrett1/Box_9AA94D8E.uasset",
+				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1.uasset"
 			]
 		}
 	]
