@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/StarterContent/Blueprints/CreatedBlueprints/BPIF_Interact.uasset",
+				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/StarterContent/Blueprints/CreatedBlueprints/BP_Cup.uasset",
+				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/portfolio1.umap",
+				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/_GENERATED/e4488/Cylinder_3E3E2B93.uasset",
+				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/_GENERATED/ebarrett1/Box_9AA94D8E.uasset",
+				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1.uasset",
+				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/UI/WB_UIDialogue.uasset",
+				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/ThirdPerson/Blueprints/BP_Interact.uasset",
+				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/_GENERATED/e4488/Box_72C30C10.uasset",
 				"C:/github stuffs/portfolio_piece_testingunreal/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/github stuffs/portfolio_piece_testingunreal/Content/portfolio1.umap",
 				"C:/github stuffs/portfolio_piece_testingunreal/Content/ThirdPerson/Blueprints/BP_SwitchOnLights.uasset",
@@ -79,14 +89,7 @@
 				"C:/github stuffs/portfolio_piece_testingunreal/Content/Textures/CUPTEXTURE/cup_3_cupsmall_BaseColor.uasset",
 				"C:/github stuffs/portfolio_piece_testingunreal/Content/Textures/CUPTEXTURE/cup_3_cupsmall_Normal.uasset",
 				"C:/github stuffs/portfolio_piece_testingunreal/Content/Textures/CUPTEXTURE/cup_3_cupsmall_OcclusionRoughnessMetallic.uasset",
-				"C:/github stuffs/portfolio_piece_testingunreal/Content/Textures/CUPTEXTURE/cup_3_cupsmall_BaseColor_Mat.uasset",
-				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/StarterContent/Blueprints/CreatedBlueprints/BPIF_Interact.uasset",
-				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/StarterContent/Blueprints/CreatedBlueprints/BP_Cup.uasset",
-				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/portfolio1.umap",
-				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/_GENERATED/e4488/Cylinder_3E3E2B93.uasset",
-				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/_GENERATED/ebarrett1/Box_9AA94D8E.uasset",
-				"C:/Users/ebarrett1/Downloads/github/portfolio_piece_testingunreal/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1.uasset"
+				"C:/github stuffs/portfolio_piece_testingunreal/Content/Textures/CUPTEXTURE/cup_3_cupsmall_BaseColor_Mat.uasset"
 			]
 		}
 	]
